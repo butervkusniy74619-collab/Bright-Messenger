@@ -1,6 +1,6 @@
 {
-  "name": "Мессенджер",
-  "short_name": "Мессенджер",
+  "name": "Bright Messenger",
+  "short_name": "Bright Messenger",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
